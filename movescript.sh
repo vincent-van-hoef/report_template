@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+## update with correct box folder and project
+
 ## If necessary, mount wharf
 #sshfs -o defer_permissions vincent-sens2021600@bianca-sftp.uppmax.uu.se:vincent-sens2021600 ~/wharf_mnt
 
